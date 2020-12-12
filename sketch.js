@@ -69,7 +69,7 @@ function draw() {
    }else{
     feed.show();
     addFood.show();
-    
+    dog.addImage(sadDog);
    }
  
   drawSprites();
